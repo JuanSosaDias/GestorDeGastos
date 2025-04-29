@@ -7,7 +7,7 @@ public class GestorDeGastos {
         Scanner scanner = new Scanner(System.in);
         ArrayList<Gasto> listaGastos = new ArrayList<>();
 
-        System.out.println("Bienvenido al Gestor de Gastos");
+        System.out.println("WELCOME !");
         String opcion;
 
         do {
